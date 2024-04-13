@@ -1,4 +1,4 @@
-# goit-markup-hw-02
-макета сторінки домашнього завдання #2.
+# goit-markup-hw-03
+макета сторінки домашнього завдання #3.
 
-https://bobantonbob.github.io/goit-markup-hw-02/
+https://it-school-goit.github.io/goit-markup-hw-03/
